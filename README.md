@@ -9,7 +9,7 @@
 <p><font size="3">
   This is a clone of Netflix website built using <strong><em>React.JS</em></strong> as a Front-end & <strong><em>Firebase</em></strong> as Back-end. It's not a replica, and it     doesn't have all the features of Netflix website. it's a similar version of Netflix with my own design touch, showing my abilities in React.JS to build something advanced       like Netflix. It contains the home page, sign-in page, sign-up page, browse page, and movie player.
   <br><br> 
-  <strong><em>Take a look at the live version here:</em></strong> https://react-netflix-clone-beta.vercel.app :octocat: :heart_eyes:
+  
 </p>
 
 ## Table of Contents
@@ -22,10 +22,7 @@
 - [Live Demo](#live-demo)
 - [Technology Used](#technology-used)
 - [How To Use](#how-to-use)
-- [Author](#author)
-- [Show Your Support](#show-your-support)
-- [Acknowledgments](#acknowledgments)
-- [License](#license)
+
 
 
 
@@ -37,11 +34,11 @@
 <div align="center"><a name="menu"></a>
 
 ![1](https://user-images.githubusercontent.com/109654707/190899793-13bc9c5a-f6c1-4220-8ff7-40269f53f4a8.jpg)
-![ScreenShot](/public/images/readme/6.jpg)
-![ScreenShot](/public/images/readme/7.jpg)
-![ScreenShot](/public/images/readme/8.jpg)
-![ScreenShot](/public/images/readme/9.jpg)
-![ScreenShot](/public/images/readme/10.jpg)
+![2](https://user-images.githubusercontent.com/109654707/190900224-3b0869ca-52fe-4aac-b388-2897ada73482.jpg)
+![3](https://user-images.githubusercontent.com/109654707/190900253-61c0e180-c7da-4bdf-82c7-8d7bad2b8067.jpg)
+![5](https://user-images.githubusercontent.com/109654707/190900790-9b63f7c9-f249-44ed-a075-ba59a5021cd3.jpg)
+![6](https://user-images.githubusercontent.com/109654707/190900794-0c645f1d-3741-42da-b6b1-af7b3ffc2f5a.jpg)
+![7](https://user-images.githubusercontent.com/109654707/190900797-1b7aa258-4950-46ce-86bc-93ef3613580e.jpg)
 </div>
 
 The Home Page consists of 5 main sections:
