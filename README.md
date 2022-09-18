@@ -36,7 +36,7 @@
 
 <div align="center"><a name="menu"></a>
 
-![ScreenShot](C:\Users\getcraft\Downloads)
+![ScreenShot](https://user-images.githubusercontent.com/109654707/190899793-13bc9c5a-f6c1-4220-8ff7-40269f53f4a8.jpg)
 ![ScreenShot](/public/images/readme/6.jpg)
 ![ScreenShot](/public/images/readme/7.jpg)
 ![ScreenShot](/public/images/readme/8.jpg)
