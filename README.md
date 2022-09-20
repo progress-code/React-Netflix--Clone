@@ -71,9 +71,8 @@ It contains useful links users may need it.
  # Sign-in Page
  
  <div align="center"><a name="menu"></a>
-![sign in 1](https://user-images.githubusercontent.com/109654707/191278200-0c976c41-05c3-418e-a90d-e3aaa5f2c9f4.jpg)
-![sign in 2](https://user-images.githubusercontent.com/109654707/191278152-07093e33-0786-4535-94ec-c33d3b2744a6.jpg)
-
+![sign in 1](https://user-images.githubusercontent.com/109654707/191281145-958e8490-4ed7-4f2d-9fd5-91479f947313.jpg)
+![sign in 2](https://user-images.githubusercontent.com/109654707/191281174-cc77bbd0-da13-4873-8f1c-b8ef69d67cd2.jpg)
 </div>
 
 The Sign-in Page consists of 3 main sections:
