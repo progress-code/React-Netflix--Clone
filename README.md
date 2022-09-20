@@ -71,9 +71,9 @@ It contains useful links users may need it.
  # Sign-in Page
  
  <div align="center"><a name="menu"></a>
+![sign in 1](https://user-images.githubusercontent.com/109654707/191278200-0c976c41-05c3-418e-a90d-e3aaa5f2c9f4.jpg)
+![sign in 2](https://user-images.githubusercontent.com/109654707/191278152-07093e33-0786-4535-94ec-c33d3b2744a6.jpg)
 
-![ScreenShot](/public/images/readme/11.jpg)
-![ScreenShot](/public/images/readme/12.jpg)
 </div>
 
 The Sign-in Page consists of 3 main sections:
@@ -102,8 +102,8 @@ It contains useful links users may need it.
  
 <div align="center"><a name="menu"></a>
 
-![ScreenShot](/public/images/readme/13.jpg)
-![ScreenShot](/public/images/readme/12.jpg)
+![sign up 1](https://user-images.githubusercontent.com/109654707/191278680-0f104a2b-7e6f-486b-bbfd-8f2f8a95047d.jpg)
+![sign up2](https://user-images.githubusercontent.com/109654707/191278696-a1dd6251-698b-44d2-862b-149cb5d70165.jpg)
 </div>
 
 The Sign-up Page consists of 3 main sections:
@@ -134,10 +134,10 @@ It contains useful links users may need it.
 
 <div align="center"><a name="menu"></a>
 
-![ScreenShot](/public/images/readme/1.jpg)
-![ScreenShot](/public/images/readme/2.jpg)
-![ScreenShot](/public/images/readme/3.jpg)
-![ScreenShot](/public/images/readme/4.jpg)
+![browse page 1](https://user-images.githubusercontent.com/109654707/191279043-809c2e0b-fec1-49c5-afd9-47f37656f33a.jpg)
+![browse page 2](https://user-images.githubusercontent.com/109654707/191279074-635e00a4-b004-45b4-a2ce-52f7adb6ee88.jpg)
+![browse page 3](https://user-images.githubusercontent.com/109654707/191279106-76163225-024c-4d58-b605-0fa3938d1f51.jpg)
+![browse page 4](https://user-images.githubusercontent.com/109654707/191279131-2e05cb4c-5ab4-491d-809a-91cdb4fae638.jpg)
 </div>
 
 The Browse Page consists of 5 main sections:
@@ -174,7 +174,7 @@ You can close the video player anytime by clicking anywhere else on the screen.
 
 <div align="center"><a name="menu"></a>
 
-![ScreenShot](/public/images/readme/14.jpg)
+![video player](https://user-images.githubusercontent.com/109654707/191279587-a13b4892-57de-4571-9049-658829f2ad78.jpg)
 
 </div>
 
@@ -184,10 +184,6 @@ It contains useful links users may need it.
 
 
 ***### The page is fully responsive to all mobile devices even the small ones. ###***
-
-# Live Demo
-
-***Take a look on the live version here:*** https://react-netflix-clone-red.vercel.app/ :octocat: :heart_eyes: 
 
 
 # Technology Used
